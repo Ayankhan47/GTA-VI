@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@font-face {
+    font-family: Rockstar ;
+    src: url(./pricedown.otf);
+}
+body,html{
+font-family: 'Rockstar';
+}
