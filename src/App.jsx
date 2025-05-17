@@ -37,21 +37,21 @@ const App = () => {
       scale:2,
       rotate:-20,
       duration:1,
-      delayl:-1.5,
+      delay:-1.5,
       ease:"power4.easeInOut",
     })
     gsap.from(".sky",{
       scale:2,
       rotate:-50,
       duration:2,
-      delayl:-1,
+      delay:-1,
       ease:"power4.easeInOut",
     })
     gsap.from(".bgpng",{
       scale:1.7,
       rotate:-30,
       duration:1.2,
-      delayl:-1.2,
+      delay:-1.2,
       ease:"power4.easeInOut",
     })
     gsap.from(".girl",{
@@ -62,7 +62,7 @@ const App = () => {
       x:"50%",
       duration:1,
       scale:1.4,
-      delayl:-1.2,
+      delay:-1.2,
       bottom:"-36%",
       ease:"power4.easeInOut",
     })
