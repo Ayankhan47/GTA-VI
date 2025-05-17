@@ -1,8 +1,9 @@
 @import "tailwindcss";
 @font-face {
-    font-family: Rockstar ;
-    src: url(./Pricedown-Black.woff2) format(opentype);
+  font-family: Rockstar;
+  src: url(./PriceDown.woff2) format(woff2), url(./PriceDown.woff) format(woff);
 }
-body,html{
-font-family: 'Rockstar';
+body,
+html {
+  font-family: "Rockstar";
 }
