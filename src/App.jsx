@@ -137,7 +137,7 @@ const App = () => {
             <div className="btmBar text-white absolute z-[10] bottom-0 left-0 p-4 px-4 w-full bg-gradient-to-t from-black to-transparent ">
             <div className="scrollDown flex items-center gap-2">
             <i className="ri-arrow-down-line text-2xl"></i>
-              <h2 className="text-xl font-[gilroy]">Scroll Down</h2>
+              <h2 className="text-2xl font-sans">Scroll Down</h2>
             </div>
             <img className="absolute h-[45px] bottom-5 right-1/2 translate-x-1/2" src="./ps5.png" alt="" />
             </div>
